@@ -1,1 +1,1 @@
-[![ibnufth](https://circleci.com/gh/ibnufth/MySimpleCleanArchitecture.svg?style=shield)](https://circleci.com/gh/ibnufth/MySimpleCleanArchitecture)
+[![ibnufth](https://circleci.com/gh/ibnufth/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/ibnufth/MySimpleCleanArchitecture)
